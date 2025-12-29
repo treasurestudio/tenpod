@@ -1,4 +1,4 @@
-# Ten Pod 🎮
+# Ten Pod BETA 🎮
 
 **Universal VR Gaming VM Manager with GPU Passthrough**
 
